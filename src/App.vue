@@ -1,21 +1,16 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <water-mark />
   </div>
 </template>
 
 <script>
-import Vue from 'vue'
-import SuiVue from 'semantic-ui-vue';
-import HelloWorld from './components/HelloWorld.vue'
-
-Vue.use(SuiVue);
+import WaterMark from './components/WaterMark.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    WaterMark
   }
 }
 </script>
