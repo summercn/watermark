@@ -10,7 +10,5 @@ npm install
 npm run serve
 ```
 
-# DEMO
-[play with the demo here](./examples/index.html)
 
 
