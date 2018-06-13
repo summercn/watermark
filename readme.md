@@ -11,6 +11,6 @@ npm run serve
 ```
 
 # DEMO
-[play with the demo here](./dist/index.html)
+[play with the demo here](./examples/index.html)
 
 
